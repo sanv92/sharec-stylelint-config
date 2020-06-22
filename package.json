@@ -1,0 +1,44 @@
+{
+  "name": "@sanv/sharec-stylelint-config",
+  "version": "1.0.0",
+  "description": "Store Stylelint (stylelint.config.js) config in one place and share between projects without any pain",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "postinstall": "sharec"
+  },
+  "files": [
+    "configs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanderV1992/sharec-stylelint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SanderV1992/sharec-stylelint-config/issues"
+  },
+  "homepage": "https://github.com/SanderV1992/sharec-stylelint-config#readme",
+  "license": "ISC",
+  "keywords": [
+    "sharec",
+    "sharec configs",
+    "config",
+    "configuration",
+    "sharec stylelint",
+    "stylelint config",
+    "stylelint configuration",
+    "sharec stylelint config",
+    "sharec stylelint configuration",
+    "stylelint.config.js",
+    "sharec stylelint.config.js",
+    "stylelint.config.js config",
+    "stylelint.config.js configuration",
+    "sharec stylelint.config.js config",
+    "sharec stylelint.config.js configuration"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "sharec": "2.2.1"
+  }
+}
