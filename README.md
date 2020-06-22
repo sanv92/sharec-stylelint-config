@@ -1,4 +1,4 @@
-# Sharec TypeScript (tsconfig.json) Config
+# Sharec Stylelint (stylelint.config.js) Config
 
 Store Stylelint (stylelint.config.js) config in one place and share between projects without any pain.
 
